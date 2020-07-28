@@ -1,2 +1,2 @@
-# jeff-CI
+# CI
 Daily update 
